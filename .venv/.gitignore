@@ -1,3 +1,5 @@
+````text
+// filepath: c:\LangChain LLM\.gitignore
 # Variables de entorno
 .env
 .env.local
@@ -21,8 +23,6 @@ __pycache__/
 # IDE
 .vscode/
 .idea/
-*.swp
-*.swo
 
 # OS
 .DS_Store
